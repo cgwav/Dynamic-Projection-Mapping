@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+._*
+
+# TouchDesigner
+*.toe.dir/
+*.lck
+
+# Footage / Content (not included in repo)
+*.mov
+*.mp4
+*.wav
+*.mp3
